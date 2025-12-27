@@ -1,8 +1,11 @@
+
 # README
 
 [![Build Status](https://github.com/Last-Order/Minyami/workflows/Node%20CI/badge.svg)](https://github.com/Last-Order/Minyami/actions)
 
 [中文说明](readme.zh-cn.md)
+
+> **Deprecation Notice:** Minyami is aging and has entered maintenance mode. No new features will be implemented in the foreseeable future; only bug fixes will be accepted. We recommend using [iori](https://github.com/iori-rs/iori) as an alternative.
 
 ## Dependencies
 
@@ -143,3 +146,4 @@ To build the project, just run `tsc`.
 ## Copyright
 
 Open-sourced under GPLv3. © 2018-2025, Eridanus Sora, member of MeowSound Idols.
+
